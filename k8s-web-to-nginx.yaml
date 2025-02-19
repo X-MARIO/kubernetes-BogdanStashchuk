@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: k8s-web-to-nginx
-        image: xmario/k8s-web-to-nginx:latest
+        image: xmario/k8s-web-to-nginx-ru
         resources:
           limits:
             memory: "128Mi"
